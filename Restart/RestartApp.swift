@@ -2,7 +2,7 @@
 //  RestartApp.swift
 //  Restart
 //
-//  Created by David Alejandro Ruiz Hernandez on 31/08/22.
+//  Created by Alex Barreto on 31/08/22.
 //
 
 import SwiftUI
